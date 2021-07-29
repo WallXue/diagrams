@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T07:52:03.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="4oIr5ketirsU4SiYzDdm" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T08:09:03.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="HnLxvECDsiCWMjDJUb3R" version="14.9.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2361" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -253,17 +253,17 @@
           <mxGeometry x="110" y="1070" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-68" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1070" width="10" height="370" as="geometry" />
+          <mxGeometry x="365" y="1070" width="10" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="RdxSyApWsiTOnNlZj5HY-72" value="submitQueryTask" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;entryX=-0.1;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RdxSyApWsiTOnNlZj5HY-68">
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-72" value="submitQueryTask" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="1080" as="sourcePoint" />
-            <mxPoint x="360" y="1076" as="targetPoint" />
+            <mxPoint x="364" y="1080" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-82" value="TradeTaskHandle" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="140" height="1670" as="geometry" />
+          <mxGeometry x="570" y="430" width="140" height="1990" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-90" value="当前任务是否已提交" style="endArrow=classic;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;elbow=vertical;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -298,10 +298,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-95" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1195" width="10" height="245" as="geometry" />
+          <mxGeometry x="375" y="1195" width="10" height="915" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-96" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1195" width="10" height="825" as="geometry" />
+          <mxGeometry x="620" y="1195" width="10" height="975" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-97" value="submit" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -369,7 +369,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-109" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1430" width="10" height="550" as="geometry" />
+          <mxGeometry x="630" y="1430" width="10" height="740" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-110" value="taskHandle" style="endArrow=classic;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;elbow=vertical;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -385,7 +385,7 @@
           <mxGeometry x="100" y="770" width="10" height="460" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-114" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1470" width="10" height="380" as="geometry" />
+          <mxGeometry x="640" y="1470" width="10" height="350" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-115" value="parseTradeSyncMode" style="endArrow=classic;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;elbow=vertical;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -397,10 +397,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdxSyApWsiTOnNlZj5HY-116" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RdxSyApWsiTOnNlZj5HY-114" target="RdxSyApWsiTOnNlZj5HY-114">
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-116" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="1590" as="sourcePoint" />
-            <mxPoint x="750" y="1540" as="targetPoint" />
+            <mxPoint x="651" y="1525" as="sourcePoint" />
+            <mxPoint x="651" y="1580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="1525" />
               <mxPoint x="760" y="1580" />
@@ -412,19 +412,91 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdxSyApWsiTOnNlZj5HY-119" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.5;entryY=0.577;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RdxSyApWsiTOnNlZj5HY-114">
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-119" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="651" y="1610.1" as="sourcePoint" />
-            <mxPoint x="650" y="1664.8200000000002" as="targetPoint" />
+            <mxPoint x="651" y="1689" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="1610" />
               <mxPoint x="760" y="1690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdxSyApWsiTOnNlZj5HY-120" value="&lt;span&gt;根据User配置设置SyncMode&lt;br&gt;如果用户为设置则按照&lt;br&gt;tids数量&lt;br&gt;最近三个月订单量&lt;br&gt;选择SyncMode&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-119">
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-120" value="&lt;span&gt;根据User配置设置SyncMode&lt;br&gt;如果用户未设置则按照&lt;br&gt;tids数量&lt;br&gt;最近三个月订单量&lt;br&gt;选择SyncMode&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-119">
           <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-122" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1720.1" as="sourcePoint" />
+            <mxPoint x="650" y="1799" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="759" y="1720" />
+              <mxPoint x="759" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-123" value="&lt;span&gt;如果SyncMode=DB 并且 为全量同步&lt;br&gt;或者 时间为空&lt;br&gt;设置为全量同步&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-122">
+          <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-124" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1840.1" as="sourcePoint" />
+            <mxPoint x="640" y="1919" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="749" y="1840" />
+              <mxPoint x="749" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-125" value="&lt;span&gt;检查是否为全量同步&lt;br&gt;并且是否存在正在同步中任务&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-124">
+          <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-126" value="并发全量同步" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=2;exitX=-0.1;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1931" as="targetPoint" />
+            <mxPoint x="630" y="1929.9950000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-127" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1950.1" as="sourcePoint" />
+            <mxPoint x="643" y="1988" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="749" y="1950" />
+              <mxPoint x="750" y="1988" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-128" value="&lt;span&gt;分割任务&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-127">
+          <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-129" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;exitX=1.2;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2010.1" as="sourcePoint" />
+            <mxPoint x="643" y="2048" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="749" y="2010" />
+              <mxPoint x="750" y="2048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-130" value="&lt;span&gt;校验订单数量&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-129">
+          <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-132" value="订单数量超过限制" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=2;exitX=-0.1;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="2061.01" as="targetPoint" />
+            <mxPoint x="630" y="2060.005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
