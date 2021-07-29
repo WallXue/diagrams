@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T08:13:53.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="dHCnL2qESLWS1rvAioKR" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T08:23:02.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="4P4Su3g0eCwS0P-2MgTQ" version="14.9.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2361" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="2677" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-6" value="TradeQueryController" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="55" y="430" width="150" height="1670" as="geometry" />
+          <mxGeometry x="55" y="430" width="150" height="2200" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-7" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="RdxSyApWsiTOnNlZj5HY-6">
           <mxGeometry x="45" y="70" width="10" height="235" as="geometry" />
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-10" value="TradeQueryService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="140" height="1670" as="geometry" />
+          <mxGeometry x="320" y="430" width="140" height="2200" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-11" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="RdxSyApWsiTOnNlZj5HY-10">
           <mxGeometry x="45" y="80" width="10" height="230" as="geometry" />
@@ -129,7 +129,7 @@
         <mxCell id="RdxSyApWsiTOnNlZj5HY-23" value="" style="endArrow=none;dashed=1;html=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-110" y="750" as="sourcePoint" />
-            <mxPoint x="890" y="750" as="targetPoint" />
+            <mxPoint x="1280" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-24" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;arcSize=0;" vertex="1" parent="1">
@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-82" value="TradeTaskHandle" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="140" height="1990" as="geometry" />
+          <mxGeometry x="570" y="430" width="140" height="2190" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-90" value="当前任务是否已提交" style="endArrow=classic;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;elbow=vertical;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -301,7 +301,7 @@
           <mxGeometry x="375" y="1195" width="10" height="915" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-96" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1195" width="10" height="975" as="geometry" />
+          <mxGeometry x="620" y="1195" width="10" height="1195" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-97" value="submit" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -369,7 +369,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-109" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1430" width="10" height="740" as="geometry" />
+          <mxGeometry x="630" y="1430" width="10" height="960" as="geometry" />
         </mxCell>
         <mxCell id="RdxSyApWsiTOnNlZj5HY-110" value="taskHandle" style="endArrow=classic;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;elbow=vertical;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -488,7 +488,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RdxSyApWsiTOnNlZj5HY-130" value="&lt;span&gt;校验订单数量&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-129">
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-130" value="&lt;span&gt;校验SyncMode=API 订单数量&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RdxSyApWsiTOnNlZj5HY-129">
           <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -513,6 +513,9 @@
           <mxGeometry x="0.0009" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RdxSyApWsiTOnNlZj5HY-135" value="TradeSyncService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="900" y="430" width="140" height="2180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
